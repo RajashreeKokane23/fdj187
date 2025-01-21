@@ -6,5 +6,6 @@ public static void main(String[] args) {
 	odd.start();
 	even.start();
 	System.out.println("Rajashree add push pull project");
+	System.out.println("Rajashree add push pull project");
 }
 }
